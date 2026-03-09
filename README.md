@@ -21,6 +21,10 @@ This board is a development board featuring the STM32H7S3Z8T MCU.
 ## size
 <img width="1020" height="869" alt="image" src="https://github.com/user-attachments/assets/eaf4b57d-bdae-4cfd-b29c-fab21c07aee6" />
 
+## Byte Options
+<img width="1494" height="94" alt="XSPI1_HSLV" src="https://github.com/user-attachments/assets/ebc3223b-eeab-4298-8f9b-c5c720aa8761" />
+<img width="1499" height="283" alt="DTCM_AXI_SHARE" src="https://github.com/user-attachments/assets/3e3834df-2523-460f-911c-b9adc2ca7339" />
+
 ## License
 The hardware design files in this repository are licensed under the
 **CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)**.
