@@ -1,4 +1,4 @@
-# STM32H7S3_Dev_Board
+# STM32H7S3 Development Board (rev.C)
 This board is a development board featuring the STM32H7S3Z8T MCU.
 
 ## how to buy
