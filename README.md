@@ -1,10 +1,10 @@
 # STM32H7S3 Development Board (rev.C)
 This board is a development board featuring the STM32H7S3Z8T MCU.
 
-## how to buy
+## How to buy
 [Yamamoto Works Ltd. Online Store](https://miyworks.base.shop/items/135242611)
 
-## specifications
+## Specifications
 - MCU specs.
   - STMicroelectronics [STM32H7S3Z8T](https://www.st.com/en/microcontrollers-microprocessors/stm32h7s3z8.html)(Arm Cortex-M7 Core/600MHz max)
   - External Crystal Oscilator(24MHz)
@@ -15,17 +15,17 @@ This board is a development board featuring the STM32H7S3Z8T MCU.
 - DSP specs.
   - Analog Devices [ADAU1466](https://www.analog.com/en/products/adau1466.html)(SigmaDSP Core/294.912MHz max)
 
-## pinout
+## Pinout
 ![JUMBLEQ_main_pinout_revC](https://github.com/user-attachments/assets/ca4ca812-e9df-4e4f-95b7-460072d8f8cd)
 
-## size
+## Size
 <img width="1020" height="869" alt="image" src="https://github.com/user-attachments/assets/eaf4b57d-bdae-4cfd-b29c-fab21c07aee6" />
 
 ## Byte Options
 <img width="1494" height="94" alt="XSPI1_HSLV" src="https://github.com/user-attachments/assets/ebc3223b-eeab-4298-8f9b-c5c720aa8761" />
 <img width="1499" height="283" alt="DTCM_AXI_SHARE" src="https://github.com/user-attachments/assets/3e3834df-2523-460f-911c-b9adc2ca7339" />
 
-## photo
+## Photo
 ![overall](https://github.com/user-attachments/assets/58c6b0ac-f3cb-4772-bfd0-b2c366a97ef1)
 ![top](https://github.com/user-attachments/assets/b7b0107a-1f1f-4ec7-9dc3-f27a3c932d75)
 
