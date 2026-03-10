@@ -6,14 +6,14 @@ This board is a development board featuring the STM32H7S3Z8T MCU.
 
 ## specifications
 - MCU specs.
-  - STM32H7S3Z8T(Arm Cortex-M7 Core/600MHz max)
+  - STMicroelectronics [STM32H7S3Z8T](https://www.st.com/en/microcontrollers-microprocessors/stm32h7s3z8.html)(Arm Cortex-M7 Core/600MHz max)
   - External Crystal Oscilator(24MHz)
   - External FLASH(256Mbits OctoSPI)
   - USB type-C(USB2.0 High-Speed supported)
   - [UF2 bootloader](https://github.com/yamamo2shun1/JUMBLEQ/tree/main/STM32CubeIDE/MX25UW25645GXDI00_STM32H7S3Z8T)
 
 - DSP specs.
-  - Analog Devices ADAU1466(SigmaDSP Core/294.912MHz max)
+  - Analog Devices [ADAU1466](https://www.analog.com/en/products/adau1466.html)(SigmaDSP Core/294.912MHz max)
 
 ## pinout
 ![JUMBLEQ_main_pinout_revC](https://github.com/user-attachments/assets/ca4ca812-e9df-4e4f-95b7-460072d8f8cd)
