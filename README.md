@@ -2,7 +2,8 @@
 This board is a development board featuring the STM32H7S3Z8T MCU.
 
 ## How to buy
-[Yamamoto Works Ltd. Online Store](https://miyworks.base.shop/items/135242611)
+[Tindie(International)](https://www.tindie.com/products/41582/)
+[BASE(Japan)](https://miyworks.base.shop/items/135242611)
 
 ## Specifications
 - MCU specs.
