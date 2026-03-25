@@ -26,6 +26,9 @@ This board is a development board featuring the STM32H7S3Z8T MCU.
 <img width="1494" height="94" alt="XSPI1_HSLV" src="https://github.com/user-attachments/assets/ebc3223b-eeab-4298-8f9b-c5c720aa8761" />
 <img width="1499" height="283" alt="DTCM_AXI_SHARE" src="https://github.com/user-attachments/assets/3e3834df-2523-460f-911c-b9adc2ca7339" />
 
+## Application Example
+- [JUMBLEQ](https://github.com/yamamo2shun1/JUMBLEQ)
+
 ## Photo
 ![overall](https://github.com/user-attachments/assets/58c6b0ac-f3cb-4772-bfd0-b2c366a97ef1)
 ![top](https://github.com/user-attachments/assets/b7b0107a-1f1f-4ec7-9dc3-f27a3c932d75)
